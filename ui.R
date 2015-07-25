@@ -3,7 +3,7 @@ pageWithSidebar(
 # Application title
 headerPanel("Getting average of three numbers"),
 sidebarPanel(
-h5("Click here for help:", a("HELP", href="file://Avarager Presentation.html")),
+h5("Click here for help:", a("HELP", href="https://github.com/lchemwolo/avarager/blob/master/Averager%20Presentation.html")),
 numericInput('number1', 'First Number', 90, min = 50, max = 200, step = 5),
 numericInput('number2', 'Second Number', 90, min = 50, max = 200, step = 5),
 numericInput('number3', 'Third Number', 90, min = 50, max = 200, step = 5),
