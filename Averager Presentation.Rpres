@@ -6,7 +6,11 @@ date: 25th July 2015
 Averager Application
 ========================================================
 
-The Averager application will calculate the average of any three numbers supplied in three fields.
+The Averager application will calculate the average of any three numbers supplied in three fields. See embedded R code below calculating the avarage of the numbers 2,3 and 4.
+
+```{r}
+(2+3+4)/3
+```
 
 Why the Averager Application
 ========================================================

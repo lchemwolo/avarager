@@ -8,3 +8,4 @@ output$inputValue3 <- renderPrint({input$number3})
 output$average <- renderPrint({diabetesRisk(input$number1,input$number2,input$number3)})
 }
 )
+
